@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **leeseulbi0724/leeseulbi0724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseulbi0724&count_bg=%23F0AD03&title_bg=%230168D2&icon=smugmug.svg&icon_color=%23E7E7E7&title=WELOCME&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Blog Badge](https://img.shields.io/badge/-Blog-0168D2?logo=Undertale&logoColor=white&link=https://lee0724.tistory.com)](https://lee0724.tistory.com)
+[![Notion Badge](https://img.shields.io/badge/-Notion-0168D2?logo=notion&logoColor=fff&link=https://www.notion.so/997bd7388b6a460cbb7c3ceb911eb2ae)](https://www.notion.so/997bd7388b6a460cbb7c3ceb911eb2ae)
+
+[![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=leeseulbi0724&count_private=true&custom_title=Seulbi's&nbsp;github&nbsp;&bg_color=110,0168D2,F0AD03&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseulbi0724&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,0168D2,F0AD03&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
