@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseulbi0724&count_bg=%23F0AD03&title_bg=%230168D2&icon=smugmug.svg&icon_color=%F7A7B7&title=WELOCME&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseulbi0724&count_bg=%23F7A7B7&title_bg=%230168D2&icon=smugmug.svg&icon_color=%23E7E7E7&title=WELOCME&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog Badge](https://img.shields.io/badge/-Blog-F7A7B7?logo=Undertale&logoColor=white&link=https://lee0724.tistory.com)](https://developer0724.tistory.com)
 [![Notion Badge](https://img.shields.io/badge/-Notion-F7A7B7?logo=notion&logoColor=fff&link=https://www.notion.so/997bd7388b6a460cbb7c3ceb911eb2ae)](https://www.notion.so/997bd7388b6a460cbb7c3ceb911eb2ae)
 
