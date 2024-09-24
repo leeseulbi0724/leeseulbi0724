@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseulbi0724&count_bg=%23EDDB83&title_bg=%23F7A7B7&icon=smugmug.svg&icon_color=%23E7E7E7&title=WELOCME&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Blog Badge]
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=leeseulbi0724&count_private=true&custom_title=Seulbi's&nbsp;github&nbsp;&bg_color=110,F7A7B7,EDDB83&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseulbi0724&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,F7A7B7,EDDB83&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
